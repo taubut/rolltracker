@@ -14,3 +14,5 @@ It colors rolls based on the number:
 The frame can be moved around just by dragging it and the clear history button will clear everything.
 
 This is character specific, so each character will show a different history.
+
+Both /rh and /rollhistory bring up the history window.
